@@ -13,7 +13,7 @@
 
 <p align="center">
   🔭 I’m looking to having more exposure in <strong>Machine Learning.</strong> <br>
-  🧠 I’m currently learning <strong>Natural Language Processing (NLP).</strong> <br>
+  🧠 I’m currently learning <strong>Deep Learning.</strong> <br>
   📫 Reach me at <strong>iced.applepear@gmail.com</strong> <br>
   ✨ Fun fact about me: <strong>reserved at first, friendly once known.</strong>
 </p>
