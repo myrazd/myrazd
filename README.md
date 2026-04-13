@@ -1,6 +1,6 @@
 👋 Hi, I’m Amirah
 
-Aspiring Data Scientist | Turning data into clear, actionable insights
+**Aspiring Data Scientist** | Turning data into clear, actionable insights
 
 I’m building my path in data science by working with real datasets, asking better questions, and focusing on practical problem-solving. I care about making data useful, not just technical.
 
