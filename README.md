@@ -12,11 +12,6 @@ scikit-learn • XGBoost <br>
 SQL • Jupyter Notebook • Google Colab <br>
 Git • GitHub • VS Code
 
-🚀 Current Focus <br>
-Building a strong, job-ready portfolio <br>
-Improving data storytelling & communication <br>
-Getting comfortable with real-world, messy datasets <br>
-
 🌱 Philosophy <br>
 Keep it simple. Make it useful. Improve every day.
 
