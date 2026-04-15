@@ -1,28 +1,16 @@
 👋 Hi, I’m Amirah
 
-**Aspiring Data Scientist** | Turning data into clear, actionable insights
-
-I’m building my path in data science by working with real datasets, asking better questions, and focusing on practical problem-solving. I care about making data useful, not just technical.
-
-💼 What I Do <br>
-Transform messy data into structured, usable formats <br>
-Explore datasets to uncover trends and insights <br>
-Create simple models to support decision-making <br>
-Present findings in a clear, non-complicated way 
+Working as a data scientist with a focus on data analysis. <br>
+Now building machine learning projects to expand into modelling. <br>
+I value clear thinking, practical solutions, and clean code. <br>
+Documenting my growth from analysis into ML, one project at a time.
 
 🛠️ Tech Stack <br>
-Python • pandas • NumPy • matplotlib  <br>
-SQL • Jupyter Notebook  <br>
-Git • GitHub 
-
-📊 Featured Work <br>
-(A growing collection of real-world practice projects) <br>
-📈 Data Exploration Projects <br>
-Finding patterns, trends, and hidden stories in data <br>
-📊 Visualization Projects <br>
-Making data easy to understand at a glance <br>
-🤖 Machine Learning <br>
-Building simple predictive models with practical use cases 
+Python • pandas • NumPy <br>
+matplotlib • seaborn • Tableau <br>
+scikit-learn • XGBoost <br>
+SQL • Jupyter Notebook • Google Colab <br>
+Git • GitHub • VS Code
 
 🚀 Current Focus <br>
 Building a strong, job-ready portfolio <br>
